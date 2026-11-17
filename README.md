@@ -149,7 +149,7 @@ pytest -v
 ## 10. Documentación Técnica
 Para entender en profundidad cómo se diseñaron las clases, dónde se aplicó el encapsulamiento, el polimorfismo y revisar los resultados de las pruebas técnicas, por favor visita el siguiente enlace:
 
-👉 **[Haz clic aquí para leer el Informe Técnico Completo](docs/INFORME_TECNICO.md)**
+👉 **[Haz clic aquí para leer el Informe Técnico Completo](analizador_de_finanzas/docs/INFORME_TECNICO.md)**
 
 ---
 **Autor:** Sebastian Samuel Martinez Acosta
