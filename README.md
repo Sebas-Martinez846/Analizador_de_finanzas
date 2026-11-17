@@ -42,7 +42,7 @@ El control de finanzas personales suele realizarse de manera desorganizada o med
 
 ## 4. Arquitectura y Diagrama del Sistema
 
-El sistema utiliza una arquitectura por capas. Para leer el análisis profundo de esta arquitectura, dirígete al [Informe Técnico](docs/INFORME_TECNICO.md).
+El sistema utiliza una arquitectura por capas. Para leer el análisis profundo de esta arquitectura, dirígete al [Informe Técnico](analizador_de_finanzas/docs/INFORME_TECNICO.md).
 
 ```mermaid
 flowchart TB
@@ -142,7 +142,7 @@ pytest -v
 3. **Fijar Meta de Ahorro:** Escribe el nombre de tu meta (ej. Moto nueva), fija el objetivo, y utiliza el botón "Abonar" para trasladar fondos de tu balance general al ahorro.
 4. **Eliminar registros:** Si te equivocas, selecciona la transacción en la tabla inferior derecha y haz clic en "Eliminar seleccionado". Todo se recalcula automáticamente.
 
-![Panel Principal](docs/imagenes/dashboard_principal.png)
+![Panel Principal](analizador_de_finanzas/docs/imagenes/dashboard_principal.png)
 
 ---
 
