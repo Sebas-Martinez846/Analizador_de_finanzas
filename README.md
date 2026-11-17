@@ -16,7 +16,7 @@
 8. [Ejecución y Pruebas](#8-ejecución-y-pruebas)
 9. [Manual de Usuario](#9-manual-de-usuario)
 10. [Documentación Técnica (Informe)](#10-documentación-técnica)
-11. **[Evidencias y Capturas de Pantalla](docs/imagenes/EVIDENCIAS.md)**
+11. **[Evidencias y Capturas de Pantalla](analizador_de_finanazas/docs/imagenes/EVIDENCIAS.md)**
 
 ---
 
