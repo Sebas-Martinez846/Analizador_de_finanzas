@@ -1,6 +1,6 @@
 # Galería de Evidencias — Finanzas Analyzer
 
-> **Navegación:** [Volver al README Principal](../../README.md) | [Ver Informe Técnico](../INFORME_TECNICO.md)
+> **Navegación:** [Volver al README Principal](../../../README.md) | [Ver Informe Técnico](../INFORME_TECNICO.md)
 
 Esta galería recopila las capturas de pantalla que evidencian el funcionamiento integral de la interfaz gráfica, la actualización en tiempo real de los gráficos estadísticos y las validaciones de negocio implementadas mediante Programación Orientada a Objetos.
 
@@ -61,4 +61,4 @@ Esta galería recopila las capturas de pantalla que evidencian el funcionamiento
 
 ---
 
->[⬆️ Subir al inicio](#galería-de-evidencias--finanzas-analyzer) | [⬅️ Volver al README Principal](../../README.md)
+>[⬆️ Subir al inicio](#galería-de-evidencias--finanzas-analyzer) | [⬅️ Volver al README Principal](../../../README.md)
