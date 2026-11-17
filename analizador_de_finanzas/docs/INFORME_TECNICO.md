@@ -1,6 +1,6 @@
 # Informe Técnico — Finanzas Analyzer
 
-> **Navegación:** [Volver al README principal](../README.md)
+> **Navegación:** [Volver al README principal](../../README.md)
 
 Este documento detalla las decisiones arquitectónicas, el diseño orientado a objetos y el proceso de desarrollo de la aplicación **Finanzas Analyzer**.
 
@@ -73,4 +73,4 @@ La interfaz fue desarrollada con **PySide6**.
 La utilización estricta del paradigma POO demostró ser inmensamente útil a la hora de realizar cambios. Cuando se integró Matplotlib, los modelos no tuvieron que ser modificados gracias al polimorfismo. Además, el manejo de excepciones (`raise ValueError`) desde los Modelos permitió que la interfaz gráfica no tuviera que duplicar lógicas condicionales engorrosas, limitándose a mostrar la información proveniente de los errores en cajas de diálogo limpias al usuario.
 
 ---
-> [⬆️ Subir al inicio](#informe-técnico--finanzas-analyzer) | [Volver al inicio](../README.md)
+> [⬆️ Subir al inicio](#informe-técnico--finanzas-analyzer) | [Volver al inicio](../../README.md)
