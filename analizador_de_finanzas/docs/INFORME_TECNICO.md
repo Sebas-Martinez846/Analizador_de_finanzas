@@ -1,4 +1,4 @@
-# Informe Técnico — Finanzas Analyzer
+# Informe Técnico — Analizador de Finanzas
 
 > **Navegación:** [Volver al README principal](../../README.md)
 
