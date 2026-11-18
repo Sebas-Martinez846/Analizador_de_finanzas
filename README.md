@@ -1,4 +1,4 @@
-# Finanzas Analyzer — Panel de Control Financiero (POO)
+# Analizador de Finanzas — Panel de Control Financiero (POO)
 
 > Aplicación de escritorio desarrollada en **Python** bajo el paradigma de **Programación Orientada a Objetos (POO)** con interfaz gráfica en **PySide6** y visualización analítica mediante **Matplotlib**. Permite gestionar ingresos, gastos categorizados, bloques de presupuesto personalizados y metas de ahorro con actualización visual en tiempo real.
 
